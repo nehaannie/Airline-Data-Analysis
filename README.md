@@ -8,6 +8,13 @@ data/: Contains the SQLite database (travel.sqlite) with all the relevant tables
 notebooks/: Jupyter notebooks used for data analysis and visualization.<br>
 README.md: Project overview and instructions.<br>
 
+## Getting the Database
+You can obtain the travel.sqlite database used in this project from Kaggle. Follow these steps:
+
+-Go to Kaggle.<br>
+-Search for the Dataset.'travel.sqlite'<br>
+-Download the Dataset<br>
+
 ## Tables in database
 
 **aircrafts_data**: Information about different aircraft models.<br>
