@@ -6,7 +6,6 @@ This project focuses on analyzing airline ticket and flight data to gain insight
 ## Project Structure
 data/: Contains the SQLite database (travel.sqlite) with all the relevant tables.<br>
 notebooks/: Jupyter notebooks used for data analysis and visualization.<br>
-scripts/: Python scripts that automate the analysis and visualization.<br>
 README.md: Project overview and instructions.<br>
 
 ## Tables in database
